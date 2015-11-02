@@ -10,6 +10,10 @@ We sync up on Slack - you can request an invite [here](http://slack.berniesander
 
 To get a sense of which projects are most active, you can take a look at https://github.com/Bernie-2016/ -- the projects will be listed in order of most to least recent activity. There's also a list of projects in [PROJECTS.md](https://github.com/Bernie-2016/Info/blob/master/PROJECTS.md), although it may sometimes be a little out of date.
 
+The current priorities for the campaign will be set as pinned messages in #tech-team in Slack.  These are things we often need to get done very soon, so help is always appreciated!
+
+If the top priorities seem too complicated and difficult to get into (they probably often will be for newcomers), feel free to instead trawl through some of our projects and try to find Issues marked with the ‘newbie-friendly’ tag.  Pick a newbie-friendly task (even better if it is a newbie-friendly task with a high-priority tag as well) and give it a shot!
+
 ## How do I commit a change to the project?
 
 Bernie 2016 projects use Gitflow to accept pull requests. To submit a change to a project:
