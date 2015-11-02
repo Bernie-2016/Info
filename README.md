@@ -4,7 +4,7 @@ Welcome! This is the official GitHub organization for the [Bernie 2016](https://
 
 ## Where do we hang out?
 
-We sync up on Slack - you can request an invite [here](http://organize.berniesanders.com/chat/).
+We sync up on Slack - you can request an invite [here](http://slack.berniesanders.com).
 
 ## What should I work on?
 
