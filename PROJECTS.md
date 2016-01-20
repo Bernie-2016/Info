@@ -7,6 +7,7 @@ This is a running list of open-source projects developed by Bernie 2016. For mor
 | [bernie-tickets](https://github.com/Bernie-2016/bernie-tickets) | React app for signups at Bernie events | React, Flux, CoffeeScript |
 | [CaucusCentralAPI](https://github.com/Bernie-2016/CaucusCentralAPI) | Rails API for app for volunteers on caucus night | Rails |
 | [CaucusCentralFrontend](https://github.com/Bernie-2016/CaucusCentralFrontend) | Frontend React/Redux app for volunteers on caucus night | React, Redux, JS |
+| [DebateWithBernie](https://github.com/Bernie-2016/DebateWithBernie) | Rails/React app to make your own #DebateWithBernie image | Rails, React, CoffeeScript |
 | [EventCounter](https://github.com/Bernie-2016/EventCounter) | Simple API for creating aggregations of useful data from events | Python |
 | [EventMap](https://github.com/Bernie-2016/EventMap) | Interactive map powering https://map.berniesanders.com | Python, MapBox |
 | [fieldthebern-api](https://github.com/Bernie-2016/fieldthebern-api) | Rails API for crowdsourced voter canvassing | Rails |
